@@ -1,0 +1,3 @@
+hpe:
+  demo:
+    test_parameter: 'This is a Spring Cloud Config demo.'
